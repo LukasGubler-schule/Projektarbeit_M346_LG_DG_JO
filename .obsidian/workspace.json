@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "83f11187f48746c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b24c0c08979e85f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6aae6a1e514ee4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c713e099120339ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c68f720fae408005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "090fd52fc08f90ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "54ce32f49462d819",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d05c76f9ca47f446",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d377ed04ce3929bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "16741186371f322d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3afb492942217959",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b8f313cb44ff8304",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6f915e6287226529",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98b19913e9b44d53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a6aae6a1e514ee4f",
+  "lastOpenFiles": [
+    "Dokumentation.md",
+    "Dokumentation/Dokumentation.md",
+    "Skripts/Installation.sh",
+    "Skripts",
+    "Neuer Ordner",
+    "Dokumentation",
+    "Test Dateien/README.md",
+    "Test Dateien/keltho.md",
+    "Test Dateien/test.txt",
+    "Test Dateien/ben.txt",
+    "Test Dateien",
+    "Dokumentation Projekt m346.md",
+    "ben.txt",
+    "Installation.sh",
+    "README.md",
+    "keltho.md"
+  ]
+}

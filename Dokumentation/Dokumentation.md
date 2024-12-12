@@ -14,7 +14,6 @@
   - [Reflexion](#reflexion)
   - [Quellen](#quellen)
 
-## Git
 
 ## Inbetriebnahme
 
