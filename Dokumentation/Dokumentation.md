@@ -15,6 +15,8 @@
   - [Quellen](#quellen)
 
 
+Wir haben unser Projekt mit GitHub umgesetzt.
+
 ## Inbetriebnahme
 
 ## Konfigurationsdateien
