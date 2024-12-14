@@ -4,7 +4,6 @@
 
 - [Dokumentation](#dokumentation)
   - [Inhalt](#inhalt)
-  - [Git](#git)
   - [Inbetriebnahme](#inbetriebnahme)
   - [Konfigurationsdateien](#konfigurationsdateien)
   - [Tests](#tests)
@@ -13,9 +12,6 @@
   - [Automatisierung](#automatisierung)
   - [Reflexion](#reflexion)
   - [Quellen](#quellen)
-
-
-Wir haben unser Projekt mit GitHub umgesetzt.
 
 ## Inbetriebnahme
 
